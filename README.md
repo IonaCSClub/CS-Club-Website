@@ -1,5 +1,4 @@
-![Logo](CS Club\CS-Club-Website\CSCLUBWebsite\CSCLUBWebsite\Images\image.jpg)
-
+![Logo](./CSCLUBWebsite/CSCLUBWebsite/Images/image.jpg)
 
 # CS Club Website
 
