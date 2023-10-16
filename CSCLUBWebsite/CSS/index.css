@@ -46,15 +46,7 @@ footer {
     margin: 3%; 
  }
 
- #left-pres
- {
-    width: 30%;
- }
 
- #right-pres
- {
-    width:30%;
- }
 
 table 
 {
@@ -93,3 +85,15 @@ img
     padding: 10px;
 }
 
+.E-Board{
+    height: 600px;
+    width: 33%;
+}
+#Middle-Image{
+    
+    align-items: center;
+}
+.Headline{
+    text-align: center;
+    font-size: 30px;
+}
